@@ -42,7 +42,8 @@ INSTALLED_APPS = [
 
     #my apps
     'job','blog','home','contact',
-    'bootstrap5','django_filters',
+    'django_bootstrap5','django_filters',
+
 ]
 
 MIDDLEWARE = [
